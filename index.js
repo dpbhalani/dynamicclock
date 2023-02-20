@@ -16,7 +16,7 @@ setInterval( ()=> {
 
 },1000);
 
-
+// check for pull and fetch
 
 // let balance = arr => {
  
